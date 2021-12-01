@@ -6,3 +6,5 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ 13     checkout master
+ 14                                 La fusión sería por fast-forward.
