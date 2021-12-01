@@ -1,10 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Obregón Ruiz, Marta                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ 01     clone <url>
+ 02     branch Paco
+ 03     branch Lola
+ 04     checkout Paco
  13     checkout master
  14                                 La fusión sería por fast-forward.
