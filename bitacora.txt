@@ -12,3 +12,10 @@
  04     checkout Paco
  13     checkout master
  14                                 La fusión sería por fast-forward.
+ 16     add bitacora.txt
+ 17     commit -m "Paso 17"
+ 18     merge Paco                  La fusión es recursiva con conflictos.
+        atom bitacora.txt           Solucionar los conflictos.
+        add bitacora.txt
+        commit
+ 19     atom bitacora.txt
